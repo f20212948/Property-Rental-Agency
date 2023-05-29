@@ -10,5 +10,8 @@ This project implements a Property Rental Agency scenario(PRA) where the PRA is 
 The Enhanced Entity Relationship (EER) Modelling diagram of the same functionalities could be seen as 
 ![ER - Diagram](https://github.com/f20212948/DBMS-Project/assets/98337027/e1b900cc-ada3-45a5-a8eb-43f7b6d7f53d)
 
+### Privelages
+The aspect of giving special privelages to a users who might be owners of a property and the managers has been implemented through the grant permissions to execute procedures - individual abilitites have been written in different procedures for each user and manager
+
 
 
