@@ -8,5 +8,7 @@ This project implements a Property Rental Agency scenario(PRA) where the PRA is 
 ![domain - 2](https://github.com/f20212948/DBMS-Project/assets/98337027/5bb90a99-ec76-45e5-b66f-7f9bed82dad9)
 
 The Enhanced Entity Relationship (EER) Modelling diagram of the same functionalities could be seen as 
-![ER - Diagram](https://github.com/f20212948/DBMS-Project/assets/98337027/06b2b898-8186-45ec-bee7-5c2449572c4d)
+![ER - Diagram](https://github.com/f20212948/DBMS-Project/assets/98337027/e1b900cc-ada3-45a5-a8eb-43f7b6d7f53d)
+
+
 
